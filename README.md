@@ -1,6 +1,6 @@
 # Podchoosee
 
-A simple, cross-platform podcatcher.
+A simple, cross-platform podcatcher using React Native.
 
 NOTE: While search works, fetching podcasts does not as it requires a back-end that is no longer operational. This repo is purely for portfolio reasons and does not contain complete functionality.
 
